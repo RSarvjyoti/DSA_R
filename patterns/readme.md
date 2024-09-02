@@ -17,5 +17,5 @@
 17. ![P17](https://github.com/user-attachments/assets/8813cf57-3aa5-4b7e-89aa-46f2bc605708)
 18. ![P18](https://github.com/user-attachments/assets/9d4a655f-d3fc-44d5-a52d-a9b6074c2e1d)
 19. ![P19](https://github.com/user-attachments/assets/164b5b9f-e1ed-4554-8a48-ed3768ed349a)
-20. ![P![P20](https://github.com/user-attachments/assets/79a99a5d-3cdf-4335-a96d-fb10b379e421)
+20. ![P20](https://github.com/user-attachments/assets/79a99a5d-3cdf-4335-a96d-fb10b379e421)
 21. ![P21](https://github.com/user-attachments/assets/c6f1a096-bf10-4bfe-bd4e-b593d71b7920)   
