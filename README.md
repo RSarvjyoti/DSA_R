@@ -7,10 +7,21 @@
 ## ArrayList
 ## String
 ## StringBuilder
-## HashMap
-## HashSet
-## TreeMap
+## HashMap : 
+- HashMap<K, V> var = new HashMap<>();
+- put(K, V), get(K), remove(K), size(), containsKey(K), containsValue(V), isEmpty(), clear(),
+- getOrDefault(Object key, V defaultValue) : int value = map.getOrDefault("orange", 0); // returns 0 if "orange" is not in the map
+-  keySet() : Set<String> keys = map.keySet()
+-  values() : Collection<Integer> values = map.values(); // returns a collection of values
+-  entrySet() : Set<Map.Entry<String, Integer>> entries = map.entrySet(); // returns a set of key-value pairs
 
+## HashSet : It's stored the unique elements
+- HashSet<E> var_name = new HashSet<>();
+- add(e), remove(), contains(), size(), isEmpty(), clear(), addAll(), removeAll(), equals()
+## TreeMap : 
+- Items stored in a Map in sorted order
+- TreeMap<K, V> var_name = new TreeMap<>();
+- put(K, V), get(K), remove(k), containsKey(K), containsValues(V), size(), isEmpty(), clear(), firstKey(), lastKey(), 
 # Time & space complexity
 
 # Algo
