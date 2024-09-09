@@ -40,6 +40,10 @@ public class Patterns {
         p17(n);
         System.out.println();
         p18(n);
+        System.out.println();
+        p19(n);
+        System.out.println();
+        // p20(n);
     }
 
     static void p1(int n ) {
@@ -276,7 +280,44 @@ public class Patterns {
     }
 
     static void p19(int n) {
-        
+        // top
+        int space = 0;
+        for(int i =1; i<=n; i++) {
+            // star
+            for(int j =1; j<=n -i+1; j++) {
+                System.out.print("*");
+            }
+            // space
+            for(int j =1; j<=space; j++) {
+                System.out.print(" ");
+            }
+            // star
+            for(int j =1; j<=n -i+1; j++) {
+                System.out.print("*");
+            }
+            space += 2;
+            System.out.println();
+        }
+
+        // bottom
+        int spaceB =8;
+        for(int i=1; i<=n; i++) {
+            // star
+            for(int j =1; j<=i; j++){
+                System.out.print("*");
+            }
+            // space
+            for(int j =1; j<=spaceB; j++){
+                System.out.print(" ");
+            }
+            // star
+            for(int j = 1; j<=i; j++){
+                System.out.print("*");
+            }
+            spaceB -= 2;
+            System.out.println();
+        }
+
     }
 
     static void p20(int n) {
