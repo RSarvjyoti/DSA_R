@@ -5,8 +5,23 @@
 ## 1D Arrays
 ## 2D Arrays
 ## ArrayList
+- add(index, elm)
+- add(elm)
+- remove(index)
+- set() // update
+- clone()
+- size()
+- isEmpty()
+- indexOf(parameter)
+- contains(parameter)
 ## String
 ## StringBuilder
+- append()
+- insert()
+- contains()
+- delete()
+- replace()
+- toString()
 ## HashMap : 
 - HashMap<K, V> var = new HashMap<>();
 - put(K, V), get(K), remove(K), size(), containsKey(K), containsValue(V), isEmpty(), clear(),
