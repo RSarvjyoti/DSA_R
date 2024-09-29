@@ -1,5 +1,5 @@
 /**
- * Armstrong
+ * Armstrong : An Armstrong number (also known as a Narcissistic number) is a number that is equal to the sum of its digits each raised to the power of the number of digits in the number.
  */
 public class Armstrong {
 
