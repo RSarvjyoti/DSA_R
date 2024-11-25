@@ -147,6 +147,7 @@ public class Patterns {
         }
 
     }
+    
     static void p9(int n) {
         p7(n);
         p8(n);

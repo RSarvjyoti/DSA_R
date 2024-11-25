@@ -4,7 +4,7 @@
 public class CheckPrime {
 
     public static void main(String[] args) {
-        int n = 20;
+        int n = 13;
         if(checkPrime(n)) {
             System.out.println("This is a prime number.");
         }else {
