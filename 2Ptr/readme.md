@@ -1,0 +1,5 @@
+- 2 sum
+- triplate 
+- Seperate 0's and 1's
+- reverse array (in-place)
+- Merge two sorted arrays
